@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "George Fakidis",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "btoa": "^1.2.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "spotify-web-api-node": "^5.0.2"
+  }
 }
